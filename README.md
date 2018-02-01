@@ -3,7 +3,7 @@
 ## Description:
 A starter project framing Unity VR and Max VR with OSC Communication.
 
-##### Environment Required:
+#### Environment Required:
 Unity 2017 2.0f or above
 
 ### Two Unity Scenes included with package:
