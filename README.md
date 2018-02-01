@@ -3,7 +3,8 @@
 ## Description:
 A starter project framing Unity VR and Max VR with OSC Communication.
 
-Environment Required: Unity 2017 2.0f
+##### Environment Required:
+Unity 2017 2.0f or above
 
 ### Two Unity Scenes included with package:
 Unity_bridge_with_Max - Unity runs VR with steamVR + VRTK and sends position data of headset & controllers to Max 7
